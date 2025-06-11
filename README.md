@@ -2,7 +2,7 @@
 
 A fun, colorful twist on the classic **Bubble Shooter** game — built using **Python** and **Pygame**, with a smooth launcher, colorful bubbles, and dynamic gameplay.
 
-![Puzzle Bobble Banner](path/to/your/banner-image.png) <!-- Replace with your actual image path -->
+![Puzzle Bobble Banner]("C:\Users\asmig\OneDrive - UPES\Desktop\db8f27db-fc54-483f-b12e-4ae690443ecc.png") <!-- Replace with your actual image path -->
 
 ---
 
