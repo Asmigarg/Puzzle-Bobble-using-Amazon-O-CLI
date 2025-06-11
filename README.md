@@ -2,9 +2,6 @@
 
 A fun, colorful twist on the classic **Bubble Shooter** game — built using **Python** and **Pygame**, with a smooth launcher, colorful bubbles, and dynamic gameplay.
 
-![Puzzle Bobble Banner]("C:\Users\asmig\OneDrive - UPES\Desktop\db8f27db-fc54-483f-b12e-4ae690443ecc.png") <!-- Replace with your actual image path -->
-
----
 
 ## 🚀 Features
 
@@ -15,13 +12,11 @@ A fun, colorful twist on the classic **Bubble Shooter** game — built using **P
 - 🖱️ Mouse-controlled shooter
 - 💾 Local score tracker
 
----
 
 ## 🎮 Gameplay
 
 Shoot colored bubbles to match **three or more** of the same color. Popped bubbles disappear, and you earn points. Clear the board to win the level!
 
----
 
 ## 🧰 Tech Stack
 
@@ -30,17 +25,10 @@ Shoot colored bubbles to match **three or more** of the same color. Popped bubbl
 - **Graphics**: Custom sprites and animations
 - **IDE**: VS Code
 
----
-
-## 📷 Screenshots
-
-<img src="path/to/screenshot1.png" width="400"/> <img src="path/to/screenshot2.png" width="400"/>
-
----
 
 ## 📦 Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/puzzle-bobble.git
+   git clone https://github.com/Asmigarg/puzzle-bobble.git
    cd puzzle-bobble
